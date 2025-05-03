@@ -1,27 +1,57 @@
-# 🎤 Voice Agent MVP
+# 🎙️ Voice Agent for Seamless Conversational Interfaces
 
-An intelligent voice-based chatbot built using JavaScript, the Web Speech API, and OpenAI GPT-3.5. Deployed with Netlify.
+A browser-based voice assistant that provides real-time conversational interaction using Web Speech API (Speech Recognition + Speech Synthesis).
 
-## 🌟 Features
+---
 
-- Voice input using Web Speech API
-- Responses from OpenAI GPT-3.5
-- Clean, responsive UI
-- Optional text-to-speech (for accessibility)
+## 🌐 Live Demo
+[Click here to view live on GitHub Pages](https://yourusername.github.io/voice-agent/) *(update this after deploying)*
 
-## 🚀 Demo
+---
 
-👉 [Live Demo](https://stunning-bubblegum-70be6a.netlify.app/)
+## 🧠 Features Demonstrated
 
-## 🛠️ Tech Stack
+- 🎙️ **Speech-to-Text**: Converts your voice into text.
+- 🗣️ **Text-to-Speech**: Speaks responses back using synthetic voice.
+- 🧠 **Context Awareness**: Remembers previous queries (e.g., weather, greetings).
+- 👤 **Personalized Interactions**: Adds user-friendly responses.
+- ✨ **Frontend Interface**: Clean, professional landing UI built with HTML/CSS/JS.
 
-- HTML, CSS, JavaScript
-- Web Speech API
-- OpenAI GPT-3.5 API
-- Hosted on Netlify
+---
 
-## 🔧 Setup Instructions
+## 🛠️ Technologies Used
 
-1. Clone the repo
+- HTML5 / CSS3 / JavaScript
+- Web Speech API (Browser-native STT + TTS)
+- Optional: Node.js/Express (for future backend)
+
+---
+
+## 🚀 How to Run Locally
+
 ```bash
-git clone https://github.com/you/voice-agent-mvp.git
+git clone https://github.com/yourusername/voice-agent.git
+cd voice-agent
+open index.html
+
+
+
+---
+
+### ✅ 4. **Optional: Add Backend**
+
+If you want to add dummy API routes using Express:
+
+**Create `server.js`:**
+```js
+const express = require('express');
+const app = express();
+const port = 3000;
+
+app.get('/api/greet', (req, res) => {
+  res.json({ message: "Hello! I'm your Voice Assistant." });
+});
+
+app.listen(port, () => {
+  console.log(`Server running at http://localhost:${port}`);
+});
