@@ -6,7 +6,7 @@ A browser-based voice assistant using **HTML**, **CSS**, and **JavaScript**, pow
 
 ## 🌐 Live Demo
 
-👉 [View on GitHub Pages](https://yourusername.github.io/voice-agent/)  
+👉 [LIVE -> ](https://stunning-bubblegum-70be6a.netlify.app/)  
 *(Replace `yourusername` with your actual GitHub username once deployed)*
 
 ---
@@ -22,13 +22,13 @@ A browser-based voice assistant using **HTML**, **CSS**, and **JavaScript**, pow
 ---
 
 ## 📁 Project Structure
-
+```bash
 voice-agent/
 ├── index.html # Main page
 ├── style.css # Styling
 ├── script.js # Voice logic
 └── README.md # Documentation
-
+```
 
 ---
 
