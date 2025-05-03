@@ -11,7 +11,7 @@ An intelligent voice-based chatbot built using JavaScript, the Web Speech API, a
 
 ## 🚀 Demo
 
-👉 [Live Demo](https://your-netlify-link.netlify.app)
+👉 [Live Demo](https://stunning-bubblegum-70be6a.netlify.app/)
 
 ## 🛠️ Tech Stack
 
