@@ -6,8 +6,7 @@ A browser-based voice assistant using **HTML**, **CSS**, and **JavaScript**, pow
 
 ## 🌐 Live Demo
 
-👉 [LIVE -> ](https://stunning-bubblegum-70be6a.netlify.app/)  
-*(Replace `yourusername` with your actual GitHub username once deployed)*
+👉 [LIVE ->](https://stunning-bubblegum-70be6a.netlify.app/)  
 
 ---
 
@@ -38,8 +37,8 @@ voice-agent/
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/yourusername/voice-agent.git
-cd voice-agent
+git clone https://github.com/harshitabisht05/voice-agent-mvp.git
+cd voice-agent-mvp
 ```
 2. Open index.html in your browser directly — no server setup required.
 
@@ -53,9 +52,6 @@ cd voice-agent
 - “Who created you?”
 
 - “Goodbye”
-
-
-”
 
 ### 💻 Backend 
 
