@@ -1,6 +1,6 @@
 # 🎙️ Voice Agent for Seamless Conversational Interfaces
 
-A browser-based voice assistant using **HTML**, **CSS**, and **JavaScript**, powered by the **Web Speech API**. This project allows users to interact through speech, with responses generated in real-time and enhanced with basic context-awareness for a smooth, conversational experience.
+A browser-based voice assistant using **HTML**, **CSS**, and **JavaScript**. This project allows users to interact through speech, with responses generated in real-time and enhanced with basic context-awareness for a smooth, conversational experience.
 
 ---
 
@@ -12,9 +12,8 @@ A browser-based voice assistant using **HTML**, **CSS**, and **JavaScript**, pow
 
 ## 🧠 App Functionality Overview
 
-- 🎤 **Speech Recognition (STT):** Converts user speech into text using Web Speech API.
+- 🎤 **Speech Recognition (STT):** Converts user speech into text.
 - 🗣️ **Speech Synthesis (TTS):** Speaks responses aloud.
-- 🧠 **Context Awareness:** Maintains conversational context for a more natural flow (e.g., remembers if you've asked the weather).
 - 🙋 **Custom Questions:** Responds to questions like “Who created you?”
 - 🎨 **Clean UI:** Simple and professional layout using HTML and CSS.
 
@@ -28,7 +27,6 @@ voice-agent/
 ├── script.js # Voice logic
 └── README.md # Documentation
 ```
-
 ---
 
 ## 🚀 Getting Started
@@ -151,6 +149,6 @@ function speakResponse(responseText) {
 Harshita Bisht
 B.Tech CSE - Cloud Computing & Virtualization Technologies
 🌐 [GitHub](https://github.com/harshitabisht05)
-📧 harshitabisht0515@gmail.com
+📧 [harshitabisht0515@gmail.com](harshitabisht0515@gmail.com)
 
 
