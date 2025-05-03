@@ -6,7 +6,7 @@ A browser-based voice assistant using **HTML**, **CSS**, and **JavaScript**, pow
 
 ## 🌐 Live Demo
 
-👉 [LIVE ->](https://stunning-bubblegum-70be6a.netlify.app/)  
+👉 [LIVE](https://stunning-bubblegum-70be6a.netlify.app/)  
 
 ---
 
@@ -150,7 +150,7 @@ function speakResponse(responseText) {
 ## 🙋‍♀️ Creator Info
 Harshita Bisht
 B.Tech CSE - Cloud Computing & Virtualization Technologies
-🌐 GitHub (https://github.com/harshitabisht05)
+🌐 [GitHub](https://github.com/harshitabisht05)
 📧 harshitabisht0515@gmail.com
 
 
