@@ -4,7 +4,7 @@ This is a simple Voice Assistant web application built using HTML, CSS, JavaScri
 
 ## 🌐 Live Demo
 
-[Visit the Voice Agent](https://harshitabisht-portfolio.netlify.app/)
+[Visit the Voice Agent](https://voiceagent-harshita.netlify.app/)
 
 ## ✨ Features
 
