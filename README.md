@@ -49,7 +49,7 @@ When you click ```"Start Listening"```, it uses the browser's SpeechRecognition 
 If you ask something like "Who created you?", the assistant responds with a predefined answer using SpeechSynthesis API.
 
 ## 📸 Screenshot
-### Leading page:
+### Home page:
 ![Voice Agent Screenshot](/Screenshots/1.png)
 
 ### Main page:
