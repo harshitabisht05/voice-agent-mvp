@@ -19,7 +19,6 @@ This is a simple Voice Assistant web application built using HTML, CSS, JavaScri
 - HTML5
 - CSS3 (TailwindCSS for layout + custom styles)
 - JavaScript (Web Speech API)
-- Git & GitHub for version control
 
 ## 📁 Project Structure
 
