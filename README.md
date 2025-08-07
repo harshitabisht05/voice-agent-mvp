@@ -55,7 +55,7 @@ If you ask something like "Who created you?", the assistant responds with a pred
 ![Voice Agent Screenshot](/Screenshots/2.png)
 
 ## 👩‍💻 Developed By
-<div align="center"> <a href="https://harshitabisht-portfolio.netlify.app/">
+<div align="center"> <a href="https://harshitabisht05.github.io/portfolio/">
 Harshita Bisht</a>
 🎓 B.Tech CSE - Cloud Computing and Virtualization
 🏫 UPES, Dehradun
